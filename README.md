@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Priyanka Gawai 👋
 
-<!--
-**Priyankagawai/priyankagawai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-Year IT Engineering Student | 💻 Java Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I enjoy solving real-world problems through code and learning new technologies every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 Currently Working On
+- *Phishing Website Detection* — Machine Learning model to identify phishing sites using Flask.
+- *Student-Teacher Booking System* — Web app using HTML, CSS, JavaScript, and Firebase.
+- *Billing & Stock Management System* — Desktop Java + MySQL project for inventory handling.
+
+---
+
+### 🛠 Tech Stack
+*Languages:* Java, Python, SQL, HTML, CSS, JavaScript  
+*Frameworks/Tools:* Flask, Firebase, MySQL, Git & GitHub, VS Code, Eclipse  
+
+---
+
+### 🚀 Featured Projects
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [Phishing Website Detection](https://github.com/yourusername/phishing-website-detection) | ML system that detects phishing sites with Flask web interface | Python, Flask, Random Forest |
+| [Billing & Stock Management System](https://github.com/yourusername/billing-system) | Java app for managing billing & stock data | Java, MySQL |
+| [Student-Teacher Booking System](https://github.com/yourusername/student-teacher-booking) | Booking and communication platform for teachers and students | HTML, CSS, JS, Firebase |
+
+---
+
+### 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect With Me
+- *LinkedIn:* [Your LinkedIn Link](https://linkedin.com/in/priyanka-gawai/) 
+- *Email:* priyankagawai092@gmail.com  
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to check out my projects and connect with me. ⭐
