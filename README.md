@@ -36,7 +36,7 @@ I enjoy solving real-world problems through code and learning new technologies e
 ---
 
 ### 📫 Connect With Me
-- *LinkedIn:* (https://linkedin.com/in/priyanka-gawai/) 
+- *LinkedIn:* https://linkedin.com/in/priyanka-gawai/
 - *Email:* priyankagawai092@gmail.com  
 
 ---
